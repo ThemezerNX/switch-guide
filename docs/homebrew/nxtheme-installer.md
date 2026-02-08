@@ -49,18 +49,16 @@ If you want to use community made themes, for example from the [r/NXThemes](http
 
 ::::: tabs
 
-:::: tab default Any
+:::: tab default All operating systems
 
 #### Making the theme
 
-
-
 1. Navigate to [**Themezer's NXTheme creation tool**](https://themezer.net/create/switch/theme).
-1. Select a menu, a layout and/or a background (make sure it is at least 1280x720 and in JPG), and any other assets you want in your theme.
+1. Select a menu, a layout and/or a background (make sure it is at least `1280x720` and a JPG), and any other assets you want in your theme.
 1. Enter details like the name and tags, then click `Download .nxtheme`.
 1. Your browser will prompt you to download a file. Save this file to a temporary folder.
 1. Repeat step 2 to 4 for every menu of the Switch you want to modify.
-1. If you've tried them out and are happy, click 'Upload'!
+1. If you've tried them out and are happy, click `Upload`!
 
 ::::
 
